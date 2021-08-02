@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data noupdate="1">
+        <record id="aks_cust1" model="aks.customer">
+            <field name="name">Jamshid</field>
+            <field name="phone">254151222</field>
+           <field name="email">hsbbcc</field> 
+        </record>
+        
+        <record id="aks_cust2" model="aks.customer">
+            <field name="name">arun</field>
+            <field name="phone">254151222</field>
+           <field name="email">hsbbcc</field> 
+        </record>
+
+        <record id="aks_cust3" model="aks.customer">
+            <field name="name">seyed</field>
+            <field name="phone">254151222</field>
+           <field name="email">hsbbcc</field> 
+        </record>
+
+    </data>
+</odoo>

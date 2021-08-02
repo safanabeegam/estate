@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_estate_prop_user,undefined.estate.prop,model_estate_prop,base.group_user,1,1,1,1
+access_prop_tag_user,undefined.prop.tag,model_prop_tag,base.group_user,1,1,1,1
+access_aks_customer_user,undefined.aks.customer,model_aks_customer,base.group_user,1,1,1,1
+access_offer_details_user,undefined.offer.details,model_offer_details,base.group_user,1,1,1,1
