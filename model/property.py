@@ -35,7 +35,7 @@ class property(models.Model):
     _name = 'estate.prop'
     _description = 'property'
 
-    ref = fields.Char(string='Referance')
+    ref = fields.Char(string='Ref')
     name = fields.Char(string='Title')
     prop_type = fields.Selection([
         ('apartment', 'Apartment'),('flat', 'Flat'),('rent', 'Rent'),('villa', 'Villa')
